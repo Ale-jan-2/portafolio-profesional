@@ -21,6 +21,7 @@ Puedes ver el proyecto en línea aquí:
 ## 📸 Capturas
 
 <img width="1348" height="636" alt="Captura de pantalla 2026-02-28 191659" src="https://github.com/user-attachments/assets/461c24d0-4d86-44e7-bdd1-adf6215fca28" />
+<img width="1346" height="630" alt="Captura de pantalla 2026-02-28 192339" src="https://github.com/user-attachments/assets/03a4e496-80d0-427d-ac20-cfa2837768dd" />
 
 ---
 
