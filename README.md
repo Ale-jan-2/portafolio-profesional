@@ -7,7 +7,7 @@
 ## 🚀 Demo
 
 Puedes ver el proyecto en línea aquí:  
-🔗 [https://amigo-secreto-test.netlify.app](https://amigo-secreto-test.netlify.app/)
+🔗 [https://portafolio-profesional-muestra.netlify.app/](https://portafolio-profesional-muestra.netlify.app/)
 
 ---
 
@@ -29,8 +29,8 @@ Puedes ver el proyecto en línea aquí:
 Si quieres tener una copia local de este proyecto, puedes clonarlo con Git:
 
 ```bash
-git clone https://github.com/Ale-jan-2/amigo-secreto.git
-cd amigo-secreto
+git clone https://github.com/Ale-jan-2/portafolio-profesional.git
+cd portafolio-profesional
 ```
 ---
 
